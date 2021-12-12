@@ -1,0 +1,28 @@
+<Trader> Contagion_HeadGear
+	<Category> Contagion_HeadGear
+
+		===============Contagion Head Gear===================,*,-1,-1
+		Contagion_Dark_Mjolnir,								*,		10000,		1000
+		Contagion_JokerMask,								*,		10000,		1000
+		Contagion_FireMan_GasMask,							*,		10000,		1000
+		Contagion_Samurai_Mask_1,							*,		10000,		1000
+		Contagion_Samurai_Mask_2,							*,		10000,		1000
+		Contagion_Samurai_Mask_3,							*,		10000,		1000
+		Contagion_Samurai_Mask_4,							*,		10000,		1000
+		Contagion_Russian_CVC_Helmet,						*,		10000,		1000
+		Contagion_Balistic_Mask,							*,		10000,		1000
+		Contagion_Alien_Mask,								*,		10000,		1000
+		Contagion_Anbu_Mask,								*,		10000,		1000
+		Contagion_Crash_Mask,								*,		10000,		1000
+		Contagion_HellRaiser_Mask,							*,		10000,		1000
+		Contagion_Fungus_Mask,								*,		10000,		1000
+		Contagion_Jason_Mask,								*,		10000,		1000
+		Contagion_JigSaw_Mask,								*,		10000,		1000
+		Contagion_Smiley_Mask,								*,		10000,		1000
+		Contagion_Terror_Mask,								*,		10000,		1000
+		Contagion_The_Mask,									*,		10000,		1000
+
+
+
+<OpenFile> 8BlackMarketRifles.txt
+<FileEnd>
